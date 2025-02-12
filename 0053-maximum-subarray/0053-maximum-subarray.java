@@ -3,7 +3,8 @@ class Solution {
         int max = Integer.MIN_VALUE;
         int sum = 0;
         int i=0;
-        if (nums.length > 1) {
+        // if (nums.length > 1)
+         {
             for (i = 0; i < nums.length; i++) {
                 sum += nums[i];
                 max=Math.max(sum, max);
@@ -12,9 +13,9 @@ class Solution {
                 }
             
             }
-        }else{
-            max=nums[i];
-        }
+        }//else{
+        //     max=nums[i];
+        // }
 
         return max;
     }
