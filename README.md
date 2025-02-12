@@ -8,15 +8,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
