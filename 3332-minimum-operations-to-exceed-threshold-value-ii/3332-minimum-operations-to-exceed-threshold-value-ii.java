@@ -1,25 +1,25 @@
+import java.util.PriorityQueue;
 
 class Solution {
     public int minOperations(int[] nums, int k) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
+        PriorityQueue<Long> pq = new PriorityQueue<>();
+        int count = 0;
+
+        // Insert all elements into the Min-Heap as long values
         for (int num : nums) {
-            if (num < k) pq.add(num);
+            pq.add((long) num);
         }
 
-        int operations = 0;
+        // Process until the smallest element is >= k
+        while (pq.size() > 1 && pq.peek() < k) {
+            long min1 = pq.poll();
+            long min2 = pq.poll();
 
-        while (!pq.isEmpty()) {
-            int x = pq.poll();
-            operations++;
-
-            if (pq.isEmpty()) break;
-
-            int y = pq.poll();
-            long newValue = 2L * x + y;
-
-            if (newValue < k) pq.add((int) newValue);
+            long newElement = min1*2 + (min2);
+            pq.add(newElement);
+            count++;
         }
 
-        return operations;
+        return count;
     }
 }
