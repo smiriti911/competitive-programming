@@ -21,14 +21,15 @@ class ProductOfNumbers {
 
     public int getProduct(int k) {
 
-        int res = list.get(list.size() - 1);
+        int end = list.size() - 1;
+        int res = list.get(end);
          if (k >= list.size()) { 
             return 0;
         }
         if (list.size() == k) {
             return res;
         }
-        return res/list.get(list.size() - 1-k);
+        return res/list.get(end-k);
     }
 }
 
