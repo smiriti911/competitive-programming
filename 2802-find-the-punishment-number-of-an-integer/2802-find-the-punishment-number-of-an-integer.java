@@ -1,27 +1,22 @@
 class Solution {
 
-    public boolean canPartition(String stringNum, int target) {
-        // Valid Partition Found
-        if (stringNum.isEmpty() && target == 0) {
-            return true;
-        }
-
-        // Invalid Partition Found
-        if (target < 0) {
+    public boolean canPartition(int num, int target) {
+        // Invalid partition found
+        if (target < 0 || num < target) {
             return false;
         }
 
-        // Recursively check all partitions for a valid partition
-        for (int index = 0; index < stringNum.length(); index++) {
-            String left = stringNum.substring(0, index + 1);
-            String right = stringNum.substring(index + 1);
-            int leftNum = Integer.parseInt(left);
-
-            if (canPartition(right, target - leftNum)) {
-                return true;
-            }
+        // Valid partition found
+        if (num == target) {
+            return true;
         }
-        return false;
+
+        // Recursively check all partitions for a valid partition
+        return (
+            canPartition(num / 10, target - (num % 10)) ||
+            canPartition(num / 100, target - (num % 100)) ||
+            canPartition(num / 1000, target - (num % 1000))
+        );
     }
 
     public int punishmentNumber(int n) {
@@ -32,7 +27,7 @@ class Solution {
             int squareNum = currentNum * currentNum;
 
             // Check if valid partition can be found and add squared number if so
-            if (canPartition(Integer.toString(squareNum), currentNum)) {
+            if (canPartition(squareNum, currentNum)) {
                 punishmentNum += squareNum;
             }
         }
