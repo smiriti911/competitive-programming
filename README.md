@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/smiriti911/contributions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smiriti911/contributions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/smiriti911/contributions/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/smiriti911/contributions/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/smiriti911/contributions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/smiriti911/contributions/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/smiriti911/contributions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/smiriti911/contributions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/smiriti911/contributions/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/smiriti911/contributions/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/smiriti911/contributions/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/smiriti911/contributions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
