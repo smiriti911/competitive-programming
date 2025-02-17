@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/smiriti911/contributions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
