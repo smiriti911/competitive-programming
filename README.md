@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/smiriti911/contributions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
