@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/smiriti911/contributions/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/smiriti911/contributions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/smiriti911/contributions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/smiriti911/contributions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/smiriti911/contributions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/smiriti911/contributions/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/smiriti911/contributions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/smiriti911/contributions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/smiriti911/contributions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/smiriti911/contributions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/smiriti911/contributions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/smiriti911/contributions/tree/master/2802-find-the-punishment-number-of-an-integer) |
