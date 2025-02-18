@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/smiriti911/contributions/tree/master/0344-reverse-string) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/smiriti911/contributions/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/smiriti911/contributions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/smiriti911/contributions/tree/master/0011-container-with-most-water) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/smiriti911/contributions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/smiriti911/contributions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
