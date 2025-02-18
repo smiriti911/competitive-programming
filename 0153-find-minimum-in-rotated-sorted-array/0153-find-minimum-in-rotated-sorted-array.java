@@ -1,13 +1,16 @@
 class Solution {
     public int findMin(int[] nums) {
-        int start=0;
-        int end=nums.length-1;
-        int min=nums[0];
-        for (int i=0; i<=end; i++){
-            if(min>nums[i]){
-                min=nums[i];
+        int start = 0;
+        int end = nums.length - 1;
+
+        while (start < end) {
+            int mid = start + (end - start) / 2;
+            if (nums[mid] > nums[end]) {
+                start = mid + 1; // Minimum is in the right half
+            } else {
+                end = mid; // Minimum is in the left half
             }
         }
-        return min;
+        return nums[start];
     }
 }
