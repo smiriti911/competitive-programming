@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/smiriti911/contributions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/smiriti911/contributions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/smiriti911/contributions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/smiriti911/contributions/tree/master/0023-merge-k-sorted-lists) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/smiriti911/contributions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/smiriti911/contributions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/smiriti911/contributions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
@@ -254,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/smiriti911/contributions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
