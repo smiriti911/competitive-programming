@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/smiriti911/contributions/tree/master/0943-sum-of-subarray-minimums) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/smiriti911/contributions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smiriti911/contributions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/smiriti911/contributions/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/smiriti911/contributions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/smiriti911/contributions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Divide and Conquer
