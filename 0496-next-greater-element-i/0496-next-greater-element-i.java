@@ -1,26 +1,25 @@
 class Solution {
-    public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-        int n1=nums1.length;
-        int n2=nums2.length;
-        int []ans=new int[n1];
-        int index=0;
+   public int[] nextGreaterElement(int[] nums1, int[] nums2) {
+	int[] ans = new int[nums1.length];
 
-        for (int i=0; i<n1; i++){
-            for (int j=0; j<n2; j++){
-                if(nums1[i]==nums2[j]){
-                    index=j;
-                }
-            }
-            ans[i]=-1;
-            for(int j=index+1; j<n2; j++){
-                if(nums1[i]<nums2[j]){
-                    ans[i]=nums2[j];
-                    break;
-                }
-            }
-        }
+	Stack<Integer> stack = new Stack<>();
+	HashMap<Integer, Integer> map = new HashMap<>();
 
-        return ans;
-        
-    }
+	// find out all the next greater elements in nums2 array
+	for(int num: nums2) {
+		// if num is greater than top elements in stack then it is the next greater element in nums2
+		while(!stack.isEmpty() && num > stack.peek()) {
+			map.put(stack.pop(), num);
+		}
+		// then add num to stack
+		stack.add(num);
+	}
+
+	int i = 0;
+	for(int num : nums1) {
+		ans[i++] = map.getOrDefault(num, -1);
+	}
+
+	return ans;
+}
 }
