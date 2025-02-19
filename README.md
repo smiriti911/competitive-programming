@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/smiriti911/contributions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smiriti911/contributions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/smiriti911/contributions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/smiriti911/contributions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/smiriti911/contributions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
