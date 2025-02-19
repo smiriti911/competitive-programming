@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/smiriti911/contributions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/smiriti911/contributions/tree/master/0344-reverse-string) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/smiriti911/contributions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Stack
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/smiriti911/contributions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/smiriti911/contributions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/smiriti911/contributions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
