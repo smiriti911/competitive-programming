@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/smiriti911/contributions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/smiriti911/contributions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/smiriti911/contributions/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/smiriti911/contributions/tree/master/0402-remove-k-digits) |
@@ -342,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/smiriti911/contributions/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/smiriti911/contributions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
