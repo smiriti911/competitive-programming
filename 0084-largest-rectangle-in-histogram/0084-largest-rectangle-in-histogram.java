@@ -29,12 +29,11 @@ class Solution {
                 pse[i]=-1;
             }
             stack1.push(i);
-        }
-
-        for(int i=0; i<n; i++){
-            int area= arr[i]*(nse[i]-pse[i]-1);
+             int area= arr[i]*(nse[i]-pse[i]-1);
             max=Math.max(max, area);
         }
+
+
         return max;
 
     }
