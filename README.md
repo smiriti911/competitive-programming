@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0943-sum-of-subarray-minimums](https://github.com/smiriti911/contributions/tree/master/0943-sum-of-subarray-minimums) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/smiriti911/contributions/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/smiriti911/contributions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/smiriti911/contributions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/smiriti911/contributions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/smiriti911/contributions/tree/master/0169-majority-element) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/smiriti911/contributions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/smiriti911/contributions/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/smiriti911/contributions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/smiriti911/contributions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/smiriti911/contributions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/smiriti911/contributions/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/smiriti911/contributions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/smiriti911/contributions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
