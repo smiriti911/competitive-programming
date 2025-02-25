@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/smiriti911/contributions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/smiriti911/contributions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/smiriti911/contributions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/smiriti911/contributions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/smiriti911/contributions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smiriti911/contributions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/smiriti911/contributions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/smiriti911/contributions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/smiriti911/contributions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/smiriti911/contributions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/smiriti911/contributions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/smiriti911/contributions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smiriti911/contributions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/smiriti911/contributions/tree/master/0198-house-robber) |
