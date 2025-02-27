@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/smiriti911/contributions/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/smiriti911/contributions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/smiriti911/contributions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/smiriti911/contributions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/smiriti911/contributions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/smiriti911/contributions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/smiriti911/contributions/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/smiriti911/contributions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/smiriti911/contributions/tree/master/0943-sum-of-subarray-minimums) |
 | [0967-minimum-falling-path-sum](https://github.com/smiriti911/contributions/tree/master/0967-minimum-falling-path-sum) |
