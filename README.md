@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/smiriti911/contributions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/smiriti911/contributions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/smiriti911/contributions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/smiriti911/contributions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/smiriti911/contributions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/smiriti911/contributions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/smiriti911/contributions/tree/master/2107-find-unique-binary-string) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/smiriti911/contributions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/smiriti911/contributions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/smiriti911/contributions/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/smiriti911/contributions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/smiriti911/contributions/tree/master/2551-apply-operations-to-an-array) |
+| [2707-merge-two-2d-arrays-by-summing-values](https://github.com/smiriti911/contributions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
 | ------- |
