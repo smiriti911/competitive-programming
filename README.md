@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/smiriti911/contributions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/smiriti911/contributions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/smiriti911/contributions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/smiriti911/contributions/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smiriti911/contributions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/smiriti911/contributions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smiriti911/contributions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/smiriti911/contributions/tree/master/3643-zero-array-transformation-ii) |
 ## Math
 |  |
 | ------- |
