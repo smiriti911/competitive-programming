@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/smiriti911/contributions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/smiriti911/contributions/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/smiriti911/contributions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/smiriti911/contributions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/smiriti911/contributions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/smiriti911/contributions/tree/master/0560-subarray-sum-equals-k) |
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/smiriti911/contributions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/smiriti911/contributions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/smiriti911/contributions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/smiriti911/contributions/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/smiriti911/contributions/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/smiriti911/contributions/tree/master/1013-fibonacci-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smiriti911/contributions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/smiriti911/contributions/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/smiriti911/contributions/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/smiriti911/contributions/tree/master/2681-put-marbles-in-bags) |
 ## Counting
