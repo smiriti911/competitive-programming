@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/smiriti911/contributions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/smiriti911/contributions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/smiriti911/contributions/tree/master/2227-sum-of-subarray-ranges) |
+| [2249-count-the-hidden-sequences](https://github.com/smiriti911/contributions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/smiriti911/contributions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/smiriti911/contributions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/smiriti911/contributions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smiriti911/contributions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2249-count-the-hidden-sequences](https://github.com/smiriti911/contributions/tree/master/2249-count-the-hidden-sequences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/smiriti911/contributions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/smiriti911/contributions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
