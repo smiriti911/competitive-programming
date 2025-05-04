@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/smiriti911/contributions/tree/master/0967-minimum-falling-path-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/smiriti911/contributions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/smiriti911/contributions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/smiriti911/contributions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/smiriti911/contributions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/smiriti911/contributions/tree/master/1477-product-of-the-last-k-numbers) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/smiriti911/contributions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/smiriti911/contributions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/smiriti911/contributions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/smiriti911/contributions/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/smiriti911/contributions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/smiriti911/contributions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/smiriti911/contributions/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/smiriti911/contributions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/smiriti911/contributions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smiriti911/contributions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
