@@ -1,37 +1,41 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    private int maxDia = 0; // Global variable to store max diameter
-
-    private int height(TreeNode node) {
-        if (node == null) {
+    public int diameterOfBinaryTree(TreeNode root) {
+        
+        if(root==null){
             return 0;
         }
-        int left = height(node.left);
-        int right = height(node.right);
 
-        // Update maxDia at every node (diameter = left height + right height)
-        maxDia = Math.max(maxDia, left + right);
+        int diameter1=maxDepth(root.left)+maxDepth(root.right);
+        int dia2=diameterOfBinaryTree(root.left);
+        int dia3=diameterOfBinaryTree(root.right);
 
-        return Math.max(left, right) + 1; // Return height
+         return Math.max(diameter1, Math.max(dia2, dia3));
     }
 
-    public int diameterOfBinaryTree(TreeNode root) {
-        maxDia = 0; // Reset before calculation
-        height(root);
-        return maxDia;
+    public int maxDepth(TreeNode root){
+        if(root==null){
+            return 0;
+        }
+
+        int left=maxDepth(root.left);
+
+        int right=maxDepth(root.right);
+
+        return 1+ Math.max(left, right);
     }
 }
