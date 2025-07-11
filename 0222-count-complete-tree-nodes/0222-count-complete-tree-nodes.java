@@ -14,19 +14,12 @@
  * }
  */
 class Solution {
+     int ans = 0;
     public int countNodes(TreeNode root) {
-       int ans=helper(root)/2;
-       return ans;
-    }
-
-    public int helper(TreeNode root){
-       if(root==null){
-            return 0;
-        }
-
-        int left=1+helper(root.left);
-        int right=1+helper(root.right);
-
-        return left+right ;
+        if(root==null) return ans;
+        ans+=1;
+        countNodes(root.left);
+        countNodes(root.right);
+        return ans;
     }
 }
