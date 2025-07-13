@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smiriti911/contributions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/smiriti911/contributions/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smiriti911/contributions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/smiriti911/contributions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/smiriti911/contributions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/smiriti911/contributions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/smiriti911/contributions/tree/master/2107-find-unique-binary-string) |
