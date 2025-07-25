@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-zero-array-transformation-ii](https://github.com/smiriti911/contributions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/smiriti911/contributions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/smiriti911/contributions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/smiriti911/contributions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/smiriti911/contributions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/smiriti911/contributions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/smiriti911/contributions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/smiriti911/contributions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2681-put-marbles-in-bags](https://github.com/smiriti911/contributions/tree/master/2681-put-marbles-in-bags) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/smiriti911/contributions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/smiriti911/contributions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
