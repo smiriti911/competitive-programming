@@ -10,22 +10,19 @@ class Solution {
         }
         Integer[] arr = set.toArray(new Integer[0]);
         int sum = 0;
-        int max = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {
             if(arr[i]>0){
                 sum+=arr[i];
-
-                max=Math.max(sum, max);
             }
         }
        
-        if (max <= 0) {
-            max=Integer.MIN_VALUE;
+        if (sum <= 0) {
+            sum=Integer.MIN_VALUE;
             for (int i = 0; i < arr.length; i++) {
-                max = Math.max(max, arr[i]);
+                sum = Math.max(sum, arr[i]);
             }
         }
 
-         return max;
+         return sum;
     }
 }
