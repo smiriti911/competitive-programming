@@ -12,15 +12,15 @@ class Solution {
 
             maxF= Math.max(maxF, freq[s.charAt(r)-'A']);
 
-            int changes=(r-l+1)-maxF;
+           
 
-            while(changes>k){
+            while((r-l+1)-maxF>k){
                 freq[s.charAt(l)-'A']--;
                 l++;
-                changes = (r - l + 1) - maxF;
+              
             }
 
-            if(changes<=k){
+            if((r-l+1)-maxF<=k){
                 maxLen=Math.max(maxLen, r-l+1);
             }
 
