@@ -24,6 +24,10 @@ class Solution {
                 maxLen=Math.max(maxLen, r-l+1);
             }
 
+            if(s.length()-l< maxLen){
+                break;
+            }
+
             r++;
         }
 
