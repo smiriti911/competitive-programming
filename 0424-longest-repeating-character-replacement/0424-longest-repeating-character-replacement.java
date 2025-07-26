@@ -14,7 +14,7 @@ class Solution {
 
             int changes=(r-l+1)-maxF;
 
-            if(changes>k){
+            while(changes>k){
                 freq[s.charAt(l)-'A']--;
                 l++;
                 changes = (r - l + 1) - maxF;
