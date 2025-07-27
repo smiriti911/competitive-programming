@@ -1,33 +1,27 @@
 class Solution {
     public int countHillValley(int[] nums) {
-        int count = 0;
-
-        for (int i = 1; i < nums.length - 1; i++) {
-            // Skip if current is same as previous
-            if (nums[i] == nums[i - 1]) continue;
-
-            // Find previous distinct value
-            int prev = i - 1;
-            while (prev >= 0 && nums[prev] == nums[i]) {
-                prev--;
+        int c = 0;
+        for(int i=1;i<nums.length-1;i++) {
+            if(nums[i] == nums[i-1]) continue;
+            int val = nums[i];
+            int left = i-1;
+            int right = i+1;
+            while(left >= 0 && val == nums[left]) {
+                left--;
             }
-
-            // Find next distinct value
-            int next = i + 1;
-            while (next < nums.length && nums[next] == nums[i]) {
-                next++;
+            while(right < nums.length && val == nums[right]) {
+                right++;
             }
-
-            // Ensure bounds are valid
-            if (prev >= 0 && next < nums.length) {
-                if (nums[i] > nums[prev] && nums[i] > nums[next]) {
-                    count++; // hill
-                } else if (nums[i] < nums[prev] && nums[i] < nums[next]) {
-                    count++; // valley
+            
+            if(left >= 0 && right < nums.length) {
+                if(val > nums[left] && val > nums[right]) {
+                    c++;
+                } 
+                else if(val < nums[left] && val < nums[right]) {
+                    c++;
                 }
             }
         }
-
-        return count;
+        return c;
     }
 }
