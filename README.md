@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/smiriti911/contributions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/smiriti911/contributions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/smiriti911/contributions/tree/master/1656-count-good-triplets) |
+| [1829-maximum-units-on-a-truck](https://github.com/smiriti911/contributions/tree/master/1829-maximum-units-on-a-truck) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/smiriti911/contributions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/smiriti911/contributions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/smiriti911/contributions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/smiriti911/contributions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
+| [1829-maximum-units-on-a-truck](https://github.com/smiriti911/contributions/tree/master/1829-maximum-units-on-a-truck) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/smiriti911/contributions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/smiriti911/contributions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/smiriti911/contributions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/smiriti911/contributions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1829-maximum-units-on-a-truck](https://github.com/smiriti911/contributions/tree/master/1829-maximum-units-on-a-truck) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/smiriti911/contributions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/smiriti911/contributions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/smiriti911/contributions/tree/master/2456-construct-smallest-number-from-di-string) |
