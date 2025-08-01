@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/smiriti911/contributions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/smiriti911/contributions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/smiriti911/contributions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/smiriti911/contributions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/smiriti911/contributions/tree/master/0493-reverse-pairs) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/smiriti911/contributions/tree/master/0213-house-robber-ii) |
 | [0368-largest-divisible-subset](https://github.com/smiriti911/contributions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/smiriti911/contributions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/smiriti911/contributions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/smiriti911/contributions/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/smiriti911/contributions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/smiriti911/contributions/tree/master/0868-push-dominoes) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/smiriti911/contributions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/smiriti911/contributions/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/smiriti911/contributions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/smiriti911/contributions/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/smiriti911/contributions/tree/master/0658-find-k-closest-elements) |
 | [1829-maximum-units-on-a-truck](https://github.com/smiriti911/contributions/tree/master/1829-maximum-units-on-a-truck) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/smiriti911/contributions/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/smiriti911/contributions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/smiriti911/contributions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/smiriti911/contributions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/smiriti911/contributions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/smiriti911/contributions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
