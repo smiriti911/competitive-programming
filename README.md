@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/smiriti911/contributions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/smiriti911/contributions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/smiriti911/contributions/tree/master/0076-minimum-window-substring) |
+| [0125-valid-palindrome](https://github.com/smiriti911/contributions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/smiriti911/contributions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/smiriti911/contributions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/smiriti911/contributions/tree/master/0242-valid-anagram) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/smiriti911/contributions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/smiriti911/contributions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/smiriti911/contributions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/smiriti911/contributions/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/smiriti911/contributions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/smiriti911/contributions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/smiriti911/contributions/tree/master/0160-intersection-of-two-linked-lists) |
