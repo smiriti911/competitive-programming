@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/smiriti911/contributions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/smiriti911/contributions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/smiriti911/contributions/tree/master/1500-count-largest-group) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/smiriti911/contributions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2107-find-unique-binary-string](https://github.com/smiriti911/contributions/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/smiriti911/contributions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/smiriti911/contributions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/smiriti911/contributions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/smiriti911/contributions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/smiriti911/contributions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/smiriti911/contributions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/smiriti911/contributions/tree/master/2032-largest-odd-number-in-string) |
 | [2107-find-unique-binary-string](https://github.com/smiriti911/contributions/tree/master/2107-find-unique-binary-string) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/smiriti911/contributions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/smiriti911/contributions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/smiriti911/contributions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/smiriti911/contributions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/smiriti911/contributions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/smiriti911/contributions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
