@@ -1,20 +1,22 @@
 class Solution {
     public String countAndSay(int n) {
-        String res = "1";
-        for (int i = 1; i < n; i++) {
-            StringBuilder temp = new StringBuilder();
-            int count = 1;
-            for (int j = 1; j < res.length(); j++) {
-                if (res.charAt(j) == res.charAt(j - 1)) {
-                    count++;
-                } else {
-                    temp.append(count).append(res.charAt(j - 1));
-                    count = 1;
-                }
-            }
-            temp.append(count).append(res.charAt(res.length() - 1));
-            res = temp.toString();
+        
+        if(n==1){
+            return "1";
         }
-        return res;
+
+        String say=countAndSay(n-1);
+        String result="";
+       for(int i=0; i<say.length(); i++){
+            int count=1;
+
+            while(i<say.length()-1 && say.charAt(i)==say.charAt(i+1)){
+                count++;
+                i++;
+            }
+            result += count + "" + say.charAt(i);
+       }
+
+       return result;
     }
 }
