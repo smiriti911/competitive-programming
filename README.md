@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/smiriti911/contributions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/smiriti911/contributions/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/smiriti911/contributions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/smiriti911/contributions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/smiriti911/contributions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/smiriti911/contributions/tree/master/1160-letter-tile-possibilities) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/smiriti911/contributions/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/smiriti911/contributions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/smiriti911/contributions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/smiriti911/contributions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/smiriti911/contributions/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/smiriti911/contributions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/smiriti911/contributions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/smiriti911/contributions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/smiriti911/contributions/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/smiriti911/contributions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/smiriti911/contributions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/smiriti911/contributions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1829-maximum-units-on-a-truck](https://github.com/smiriti911/contributions/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/smiriti911/contributions/tree/master/2032-largest-odd-number-in-string) |
