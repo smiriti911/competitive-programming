@@ -1,24 +1,21 @@
 class Solution {
     public int minAddToMakeValid(String s) {
+        int open = 0; // count of unmatched '('
+        int unmatchedClose = 0; // count of unmatched ')'
 
-        Stack<Character> stack=new Stack<>();
-
-        int n=s.length();
-
-       for(int i=0; i<n; i++){
-
-            if(s.charAt(i)=='('){
-                stack.push('(');
-              
-            
-            }else if(!stack.isEmpty() && stack.peek()=='('){
-                stack.pop();
-            }else{
-                stack.push(')');
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                open++;
+            } else if (c == ')') {
+                if (open > 0) {
+                    open--; // matched with a '('
+                } else {
+                    unmatchedClose++; // no '(' to match with
+                }
             }
         }
 
-        return stack.size();
-        
+        // total insertions = unmatched '(' + unmatched ')'
+        return open + unmatchedClose;
     }
 }
