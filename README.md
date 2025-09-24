@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/smiriti911/contributions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/smiriti911/contributions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/smiriti911/contributions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0368-largest-divisible-subset](https://github.com/smiriti911/contributions/tree/master/0368-largest-divisible-subset) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/smiriti911/contributions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/smiriti911/contributions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/smiriti911/contributions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/smiriti911/contributions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/smiriti911/contributions/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/smiriti911/contributions/tree/master/0455-assign-cookies) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/smiriti911/contributions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/smiriti911/contributions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/smiriti911/contributions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/smiriti911/contributions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/smiriti911/contributions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/smiriti911/contributions/tree/master/0493-reverse-pairs) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/smiriti911/contributions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/smiriti911/contributions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/smiriti911/contributions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/smiriti911/contributions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/smiriti911/contributions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/smiriti911/contributions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/smiriti911/contributions/tree/master/1993-sum-of-all-subset-xor-totals) |
